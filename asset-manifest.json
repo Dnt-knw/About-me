@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.4cf3f881.css",
+    "main.js": "./static/js/main.0a5e4709.js",
+    "static/js/787.28cb0dcd.chunk.js": "./static/js/787.28cb0dcd.chunk.js",
+    "static/media/Waving.glb": "./static/media/Waving.c99e27cd453161fe8106.glb",
+    "static/media/funpizza-web.jpg": "./static/media/funpizza-web.c6479d430b57f72bc159.jpg",
+    "static/media/mail_icon.png": "./static/media/mail_icon.cfdb81d786e6ca5e965b.png",
+    "static/media/weather_forecast.jpg": "./static/media/weather_forecast.cdcbf9cc30742f48f469.jpg",
+    "static/media/earth.jpg": "./static/media/earth.5cd2a0f74bfd2b7ae0d5.jpg",
+    "static/media/telegram_icon.png": "./static/media/telegram_icon.9bd900299509eb2cacbf.png",
+    "static/media/Funpizza_mobile.png": "./static/media/Funpizza_mobile.0c3a39a80d6c1b013030.png",
+    "static/media/jenga.jpg": "./static/media/jenga.47c14b2fc771939172ff.jpg",
+    "static/media/iPhone.jpg": "./static/media/iPhone.2efd5dd8b292c0ed768a.jpg",
+    "static/media/HNY2020.jpg": "./static/media/HNY2020.9164a8f56a5e2b44bcd1.jpg",
+    "static/media/paint.png": "./static/media/paint.eb085226c396d7b27914.png",
+    "index.html": "./index.html",
+    "main.4cf3f881.css.map": "./static/css/main.4cf3f881.css.map",
+    "main.0a5e4709.js.map": "./static/js/main.0a5e4709.js.map",
+    "787.28cb0dcd.chunk.js.map": "./static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cf3f881.css",
+    "static/js/main.0a5e4709.js"
+  ]
+}
