@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.a572e989.css",
-    "main.js": "./static/js/main.8f5b7b7b.js",
+    "main.js": "./static/js/main.25e94c1c.js",
     "static/js/787.28cb0dcd.chunk.js": "./static/js/787.28cb0dcd.chunk.js",
     "static/media/Waving.glb": "./static/media/Waving.c99e27cd453161fe8106.glb",
     "static/media/funpizza-web.jpg": "./static/media/funpizza-web.c6479d430b57f72bc159.jpg",
@@ -16,11 +16,11 @@
     "static/media/paint.png": "./static/media/paint.eb085226c396d7b27914.png",
     "index.html": "./index.html",
     "main.a572e989.css.map": "./static/css/main.a572e989.css.map",
-    "main.8f5b7b7b.js.map": "./static/js/main.8f5b7b7b.js.map",
+    "main.25e94c1c.js.map": "./static/js/main.25e94c1c.js.map",
     "787.28cb0dcd.chunk.js.map": "./static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a572e989.css",
-    "static/js/main.8f5b7b7b.js"
+    "static/js/main.25e94c1c.js"
   ]
 }
