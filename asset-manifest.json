@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.10411498.css",
+    "main.css": "./static/css/main.559e63f6.css",
     "main.js": "./static/js/main.1b541e4c.js",
     "static/js/787.28cb0dcd.chunk.js": "./static/js/787.28cb0dcd.chunk.js",
     "static/media/Waving.glb": "./static/media/Waving.c99e27cd453161fe8106.glb",
@@ -15,12 +15,12 @@
     "static/media/HNY2020.jpg": "./static/media/HNY2020.9164a8f56a5e2b44bcd1.jpg",
     "static/media/paint.png": "./static/media/paint.eb085226c396d7b27914.png",
     "index.html": "./index.html",
-    "main.10411498.css.map": "./static/css/main.10411498.css.map",
+    "main.559e63f6.css.map": "./static/css/main.559e63f6.css.map",
     "main.1b541e4c.js.map": "./static/js/main.1b541e4c.js.map",
     "787.28cb0dcd.chunk.js.map": "./static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.10411498.css",
+    "static/css/main.559e63f6.css",
     "static/js/main.1b541e4c.js"
   ]
 }
