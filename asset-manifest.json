@@ -1,26 +1,30 @@
 {
   "files": {
-    "main.css": "./static/css/main.559e63f6.css",
-    "main.js": "./static/js/main.1b541e4c.js",
+    "main.css": "./static/css/main.94132f2f.css",
+    "main.js": "./static/js/main.c5a17464.js",
     "static/js/787.28cb0dcd.chunk.js": "./static/js/787.28cb0dcd.chunk.js",
-    "static/media/Waving.glb": "./static/media/Waving.c99e27cd453161fe8106.glb",
-    "static/media/funpizza-web.jpg": "./static/media/funpizza-web.c6479d430b57f72bc159.jpg",
+    "static/media/Offensive Idle.glb": "./static/media/Offensive Idle.2d1bc4b4505705c385a3.glb",
+    "static/media/Waving.glb": "./static/media/Waving.63fdfb8a133ed7ffde7b.glb",
+    "static/media/Missing_dev.jpg": "./static/media/Missing_dev.e67c671dd647a82f93c4.jpg",
+    "static/media/reflection.jpg": "./static/media/reflection.b3ae82b6603967bf1635.jpg",
     "static/media/mail_icon.png": "./static/media/mail_icon.cfdb81d786e6ca5e965b.png",
     "static/media/weather_forecast.jpg": "./static/media/weather_forecast.cdcbf9cc30742f48f469.jpg",
-    "static/media/earth.jpg": "./static/media/earth.5cd2a0f74bfd2b7ae0d5.jpg",
+    "static/media/funpizza-web.jpg": "./static/media/funpizza-web.f07e4227ae2c2336d3a4.jpg",
     "static/media/telegram_icon.png": "./static/media/telegram_icon.9bd900299509eb2cacbf.png",
-    "static/media/Funpizza_mobile.png": "./static/media/Funpizza_mobile.0c3a39a80d6c1b013030.png",
     "static/media/jenga.jpg": "./static/media/jenga.47c14b2fc771939172ff.jpg",
+    "static/media/Funpizza_mobile.png": "./static/media/Funpizza_mobile.45508b6c8212b9eeec61.png",
     "static/media/iPhone.jpg": "./static/media/iPhone.2efd5dd8b292c0ed768a.jpg",
     "static/media/HNY2020.jpg": "./static/media/HNY2020.9164a8f56a5e2b44bcd1.jpg",
     "static/media/paint.png": "./static/media/paint.eb085226c396d7b27914.png",
+    "static/media/happy.png": "./static/media/happy.61686f4eaca9ac68c485.png",
+    "static/media/code.png": "./static/media/code.bfe3593bdb74aa231876.png",
     "index.html": "./index.html",
-    "main.559e63f6.css.map": "./static/css/main.559e63f6.css.map",
-    "main.1b541e4c.js.map": "./static/js/main.1b541e4c.js.map",
+    "main.94132f2f.css.map": "./static/css/main.94132f2f.css.map",
+    "main.c5a17464.js.map": "./static/js/main.c5a17464.js.map",
     "787.28cb0dcd.chunk.js.map": "./static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.559e63f6.css",
-    "static/js/main.1b541e4c.js"
+    "static/css/main.94132f2f.css",
+    "static/js/main.c5a17464.js"
   ]
 }
