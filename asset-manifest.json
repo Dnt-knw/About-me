@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.bb11f523.css",
-    "main.js": "./static/js/main.f9a0f254.js",
+    "main.css": "./static/css/main.afff4c7b.css",
+    "main.js": "./static/js/main.eb47930b.js",
     "static/js/787.28cb0dcd.chunk.js": "./static/js/787.28cb0dcd.chunk.js",
     "static/media/Offensive Idle.glb": "./static/media/Offensive Idle.2d1bc4b4505705c385a3.glb",
     "static/media/Waving.glb": "./static/media/Waving.63fdfb8a133ed7ffde7b.glb",
     "static/media/Missing_dev.jpg": "./static/media/Missing_dev.e67c671dd647a82f93c4.jpg",
     "static/media/reflection.jpg": "./static/media/reflection.b3ae82b6603967bf1635.jpg",
     "static/media/mail_icon.png": "./static/media/mail_icon.cfdb81d786e6ca5e965b.png",
-    "static/media/weather_forecast.jpg": "./static/media/weather_forecast.cdcbf9cc30742f48f469.jpg",
     "static/media/funpizza-web.jpg": "./static/media/funpizza-web.f07e4227ae2c2336d3a4.jpg",
     "static/media/3d-room.jpg": "./static/media/3d-room.9db0518d29b1817baada.jpg",
     "static/media/telegram_icon.png": "./static/media/telegram_icon.9bd900299509eb2cacbf.png",
+    "static/media/weather_forecast.jpg": "./static/media/weather_forecast.637245fe8d4805d52791.jpg",
     "static/media/iPhone.jpg": "./static/media/iPhone.9784c5c2e17a8cbe10b2.jpg",
     "static/media/jenga.jpg": "./static/media/jenga.47c14b2fc771939172ff.jpg",
     "static/media/Funpizza_mobile.png": "./static/media/Funpizza_mobile.45508b6c8212b9eeec61.png",
@@ -23,12 +23,12 @@
     "static/media/happy.png": "./static/media/happy.61686f4eaca9ac68c485.png",
     "static/media/code.png": "./static/media/code.bfe3593bdb74aa231876.png",
     "index.html": "./index.html",
-    "main.bb11f523.css.map": "./static/css/main.bb11f523.css.map",
-    "main.f9a0f254.js.map": "./static/js/main.f9a0f254.js.map",
+    "main.afff4c7b.css.map": "./static/css/main.afff4c7b.css.map",
+    "main.eb47930b.js.map": "./static/js/main.eb47930b.js.map",
     "787.28cb0dcd.chunk.js.map": "./static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb11f523.css",
-    "static/js/main.f9a0f254.js"
+    "static/css/main.afff4c7b.css",
+    "static/js/main.eb47930b.js"
   ]
 }
