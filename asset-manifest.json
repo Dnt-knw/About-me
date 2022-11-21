@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.77a18d3e.css",
-    "main.js": "./static/js/main.553ff337.js",
+    "main.js": "./static/js/main.20521498.js",
     "static/js/787.1ed0c42c.chunk.js": "./static/js/787.1ed0c42c.chunk.js",
     "static/media/Offensive Idle.glb": "./static/media/Offensive Idle.2d1bc4b4505705c385a3.glb",
     "static/media/Waving.glb": "./static/media/Waving.63fdfb8a133ed7ffde7b.glb",
@@ -9,26 +9,26 @@
     "static/media/paint.png": "./static/media/paint.33f57f4e586aa9fb9dba.png",
     "static/media/reflection.jpg": "./static/media/reflection.b3ae82b6603967bf1635.jpg",
     "static/media/mail_icon.png": "./static/media/mail_icon.cfdb81d786e6ca5e965b.png",
-    "static/media/funpizza-web.jpg": "./static/media/funpizza-web.0e457b632dd8ae536f78.jpg",
+    "static/media/funpizza-web.jpg": "./static/media/funpizza-web.06dc4bae175009b1ee89.jpg",
     "static/media/3d-room.jpg": "./static/media/3d-room.2fd9c3ecbb1c1fdaaef8.jpg",
     "static/media/telegram_icon.png": "./static/media/telegram_icon.9bd900299509eb2cacbf.png",
-    "static/media/Funpizza_mobile.jpg": "./static/media/Funpizza_mobile.f2a3326585ed7e09c07f.jpg",
     "static/media/weather_forecast.jpg": "./static/media/weather_forecast.637245fe8d4805d52791.jpg",
     "static/media/iPhone.jpg": "./static/media/iPhone.9784c5c2e17a8cbe10b2.jpg",
-    "static/media/jenga.jpg": "./static/media/jenga.47c14b2fc771939172ff.jpg",
+    "static/media/Funpizza_mobile.jpg": "./static/media/Funpizza_mobile.36e6d20df68944a15973.jpg",
     "static/media/css-fish.jpg": "./static/media/css-fish.cadafbc90339132bc47e.jpg",
     "static/media/css-train.png": "./static/media/css-train.e3fe051c4f6d557ab339.png",
+    "static/media/jenga.jpg": "./static/media/jenga.66eba3c3911bbced6499.jpg",
     "static/media/HNY2020.jpg": "./static/media/HNY2020.9164a8f56a5e2b44bcd1.jpg",
     "static/media/calculator.png": "./static/media/calculator.600b40a9257bc8d5a341.png",
     "static/media/happy.png": "./static/media/happy.61686f4eaca9ac68c485.png",
     "static/media/code.png": "./static/media/code.bfe3593bdb74aa231876.png",
     "index.html": "./index.html",
     "main.77a18d3e.css.map": "./static/css/main.77a18d3e.css.map",
-    "main.553ff337.js.map": "./static/js/main.553ff337.js.map",
+    "main.20521498.js.map": "./static/js/main.20521498.js.map",
     "787.1ed0c42c.chunk.js.map": "./static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.77a18d3e.css",
-    "static/js/main.553ff337.js"
+    "static/js/main.20521498.js"
   ]
 }
