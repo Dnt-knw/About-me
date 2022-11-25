@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.63e1a285.css",
-    "main.js": "./static/js/main.803d73cb.js",
+    "main.js": "./static/js/main.e047799d.js",
     "static/js/787.1ed0c42c.chunk.js": "./static/js/787.1ed0c42c.chunk.js",
     "static/media/Offensive Idle.glb": "./static/media/Offensive Idle.c906442b03e23f6c6906.glb",
     "static/media/Waving.glb": "./static/media/Waving.d1e576e9b8db30b27132.glb",
@@ -11,8 +11,8 @@
     "static/media/mail_icon.png": "./static/media/mail_icon.cfdb81d786e6ca5e965b.png",
     "static/media/funpizza-web.jpg": "./static/media/funpizza-web.06dc4bae175009b1ee89.jpg",
     "static/media/3d-room.jpg": "./static/media/3d-room.2fd9c3ecbb1c1fdaaef8.jpg",
+    "static/media/weather_forecast.jpg": "./static/media/weather_forecast.db5f31f82ee3577634bd.jpg",
     "static/media/telegram_icon.png": "./static/media/telegram_icon.9bd900299509eb2cacbf.png",
-    "static/media/weather_forecast.jpg": "./static/media/weather_forecast.637245fe8d4805d52791.jpg",
     "static/media/iPhone.jpg": "./static/media/iPhone.9784c5c2e17a8cbe10b2.jpg",
     "static/media/Funpizza_mobile.jpg": "./static/media/Funpizza_mobile.36e6d20df68944a15973.jpg",
     "static/media/css-fish.jpg": "./static/media/css-fish.cadafbc90339132bc47e.jpg",
@@ -24,11 +24,11 @@
     "static/media/code.png": "./static/media/code.bfe3593bdb74aa231876.png",
     "index.html": "./index.html",
     "main.63e1a285.css.map": "./static/css/main.63e1a285.css.map",
-    "main.803d73cb.js.map": "./static/js/main.803d73cb.js.map",
+    "main.e047799d.js.map": "./static/js/main.e047799d.js.map",
     "787.1ed0c42c.chunk.js.map": "./static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.63e1a285.css",
-    "static/js/main.803d73cb.js"
+    "static/js/main.e047799d.js"
   ]
 }
