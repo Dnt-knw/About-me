@@ -1,18 +1,22 @@
-# About-me
+# About me 🙋‍♂️
 
-> Let's get acquainted
+> Let's get acquainted 🤝
 
-This is a project about my skills and experience in __Frontend development__
+### See the <a href='https://dnt-knw.github.io/About-me' target='_blank' title='Click to open the project'>Demo</a> 👁
 
-## What the project contains
+<img src='./Portfolio.gif' alt='portfolio' />
 
-- Skills I possess
-- Projects I worked on
-- My contacts
-- Other info about me
+This is a project about my __skills__ and __experience__ in __Frontend development__ 🙌
 
-## Additional info
+## What you can see ❓
 
-The project contains two animated 3D models of me and I think it's a pretty interesting and funny thing 
+- 📜 Skills I possess
+- 📜 Projects I worked on
+- 📜 My contacts
+- 📜 Other info about me
+
+## Additional info 📝
+
+The project contains two animated 3D models of me and I think it's a pretty interesting and funny thing 😀
 
 
